@@ -1,6 +1,6 @@
 
 # Usage
-## for problem1:
+## For problem1:
 ```
 python problem1.py [image_path] [output_folder_path] [haar_cascade_path]
 ```

@@ -1,3 +1,12 @@
+
+# Usage
+for problem1:
+```
+python problem1.py TestInputs\\test2.png Outputs haarcascade_frontalface_default.xml
+```
+
+
+
 # Data Engineer Takehome Test
 Please clone this repo in your account, send us the link of the solution in your GitHub account together with your application.
 

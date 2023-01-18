@@ -1,8 +1,21 @@
 
 # Usage
-for problem1:
+## for problem1:
+```
+python problem1.py [image_path] [output_folder_path] [haar_cascade_path]
+```
+Example:
 ```
 python problem1.py TestInputs\\test2.png Outputs haarcascade_frontalface_default.xml
+```
+
+## For problem2:
+```
+python problem2.py [AWS_SERVER_PUBLIC_KEY] [AWS_SERVER_SECRET_KEY] [source_bucket_name] [destination_bucket_name]
+```
+Example:
+```
+python problem2.py XXXXXXXXXXXXXXXXXXXX asdasdassdasdasdasdasdasdasdasdasdasdasd data-engineer-takehome-test-source-storage data-engineer-takehome-test-destination-storage                
 ```
 
 
